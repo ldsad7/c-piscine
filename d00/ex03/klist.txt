@@ -1,0 +1,7 @@
+Credentials cache: API:7454
+        Principal: tsimonis@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 22 13:43:51 2018  Aug 22 23:44:39 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Aug 22 13:43:53 2018  Aug 22 23:44:39 2018  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Aug 22 13:43:53 2018  Aug 22 23:44:39 2018  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
