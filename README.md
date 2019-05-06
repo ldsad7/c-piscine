@@ -1,2 +1,2 @@
 # c-piscine
-My solutions to c-piscine tasks
+My solutions to the c-piscine tasks
